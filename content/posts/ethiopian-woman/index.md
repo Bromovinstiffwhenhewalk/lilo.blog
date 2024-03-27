@@ -6,3 +6,20 @@ pinned = false
 image = "ethiopian-woman.jpeg"
 +++
 A Drawing of a traditional semitic ethiopian woman.
+
+
+
+{{<lead>}}
+
+**japapapappaap**
+
+{{</lead>}}
+
+1. love
+2. brains
+3. boy
+
+* ate
+* period
+
+`ggggggg `mmmm
