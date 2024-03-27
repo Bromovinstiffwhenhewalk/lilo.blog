@@ -3,7 +3,7 @@ title = "Ethiopian Woman"
 date = "2024-03-14"
 draft = false
 pinned = false
-image = "ethiopian-woman.jpeg"
+image = ""
 +++
 A Drawing of a traditional semitic ethiopian woman.
 
@@ -22,4 +22,6 @@ A Drawing of a traditional semitic ethiopian woman.
 * ate
 * period
 
-`ggggggg `mmmm
+`ggggggg `mmmm 
+
+![](ethiopian-woman.jpeg)
