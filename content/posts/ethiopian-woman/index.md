@@ -1,11 +1,11 @@
 +++
-title = "Ethiopian Woman"
+title = "TEST"
 date = "2024-03-14"
 draft = false
 pinned = false
 image = ""
 +++
-A Drawing of a traditional semitic ethiopian woman.
+A Drawing of a traditional semitic  woman.
 
 
 
